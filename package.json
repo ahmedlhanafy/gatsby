@@ -36,7 +36,7 @@
     "prettier-eslint-cli": "^4.1.1",
     "prop-types": "^15.5.8",
     "purdy": "^2.2.1",
-    "remotedev-server": "^0.2.2",
+    "remotedev-server": "^0.3.0",
     "rimraf": "^2.6.1"
   },
   "private": true,
